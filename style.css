@@ -22,3 +22,7 @@ body {
     padding: 12px 22px;
     font-size: medium;
 }
+
+.grid-container {
+  columns: 300px;
+}
