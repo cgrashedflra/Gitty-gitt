@@ -25,4 +25,12 @@ body {
 
 .grid-container {
   columns: 300px;
+  
+}
+
+.grid-container > div {
+   height: 60px;
+   width: 100px;
+   background-color: yellow;
+   margin: 10px;
 }
